@@ -9,7 +9,7 @@
     "clsx": "^1.0.4",
     "material-table": "^1.40.1",
     "mdbreact": "^4.18.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.26",
     "react": "^16.8.0-alpha.1",
     "react-dom": "^16.8.0-alpha.1",
